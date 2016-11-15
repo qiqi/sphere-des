@@ -21,7 +21,7 @@ solvers
     {
         solver          GAMG;
         tolerance       1e-6;
-        relTol          0.05;
+        relTol          0.005;
 
         smoother        GaussSeidel;
 
@@ -46,7 +46,7 @@ solvers
 
 PISO
 {
-    nCorrectors     8;
+    nCorrectors     3;
     nNonOrthogonalCorrectors 0;
 }
 
