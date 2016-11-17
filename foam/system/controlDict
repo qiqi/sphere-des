@@ -65,7 +65,7 @@ functions
         pitchAxis       (0 0 1);
         magUInf         1;
         lRef            1;
-        Aref            2;
+        Aref            0.7853981633974483;
     }
 }
 
