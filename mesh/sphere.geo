@@ -1,6 +1,6 @@
 r = 0.5/Sqrt(3);
 nCirc = 25;
-nInner = 55;
+nInner = 85;
 nOuter = 35;
 pInner = 0.93;
 pOuter = 0.9;
